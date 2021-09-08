@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,MACE,UACF,CACA,KACE,YAAa,CACb,6BAA8B,CAC9B,iBACF,CACA,OACE,eAAgB,CAChB,aACF","file":"main.6eb0a1f8.chunk.css","sourcesContent":["input{\n  width: 50px;\n}\n.row{\n  display: flex;\n  justify-content: space-between;\n  margin-bottom: 5px;\n}\n.table{\n  max-width: 320px;\n  margin: 0 auto;\n}"]}
