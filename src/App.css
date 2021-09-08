@@ -1,0 +1,12 @@
+input{
+  width: 50px;
+}
+.row{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.table{
+  max-width: 320px;
+  margin: 0 auto;
+}
