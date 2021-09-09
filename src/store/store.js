@@ -139,10 +139,18 @@ class Store{
         {title:'Лёд пакетики (кратно 5) ', value: 0},
     ]
 
-
+    date = ''
+    place = ''
 
     constructor() {
         makeAutoObservable(this)
+    }
+
+    changeDate(val){
+        this.date = val.split('-').reverse().join('.')
+    }
+    changePlace(val){
+        this.place = val
     }
 
     ChangeValue(index,val,obj){

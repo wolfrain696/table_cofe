@@ -46,3 +46,8 @@ nav ul{
 .active{
   color: black ;
 }
+
+.in{
+  width: 200px;
+  margin-bottom: 20px;
+}
