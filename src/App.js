@@ -2,7 +2,7 @@ import './App.css';
 import Store from './store/store'
 import {Row} from "./components/Row";
 import {observer} from "mobx-react-lite";
-import {BrowserRouter, NavLink, Switch, Route} from "react-router-dom";
+import {HashRouter, NavLink, Switch, Route} from "react-router-dom";
 
 export const App = observer(() => {
     const {table, foodTable} = Store
@@ -14,7 +14,7 @@ export const App = observer(() => {
         <Row obj={'food'} index={i} title={el.title} value={el.value}/>
     </div>)
     return (
-        <BrowserRouter>
+        <HashRouter>
                 <header>
                     <nav>
                         <ul>
@@ -47,7 +47,7 @@ export const App = observer(() => {
                         </Route>
                     </Switch>
                 </div>
-        </BrowserRouter>
+        </HashRouter>
     )
         ;
 })
