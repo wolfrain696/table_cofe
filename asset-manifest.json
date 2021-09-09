@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tible_cofe/static/css/main.6eb0a1f8.chunk.css",
-    "main.js": "/tible_cofe/static/js/main.332e90be.chunk.js",
-    "main.js.map": "/tible_cofe/static/js/main.332e90be.chunk.js.map",
-    "runtime-main.js": "/tible_cofe/static/js/runtime-main.2938d171.js",
-    "runtime-main.js.map": "/tible_cofe/static/js/runtime-main.2938d171.js.map",
-    "static/js/2.33e34de6.chunk.js": "/tible_cofe/static/js/2.33e34de6.chunk.js",
-    "static/js/2.33e34de6.chunk.js.map": "/tible_cofe/static/js/2.33e34de6.chunk.js.map",
-    "index.html": "/tible_cofe/index.html",
-    "static/css/main.6eb0a1f8.chunk.css.map": "/tible_cofe/static/css/main.6eb0a1f8.chunk.css.map",
-    "static/js/2.33e34de6.chunk.js.LICENSE.txt": "/tible_cofe/static/js/2.33e34de6.chunk.js.LICENSE.txt"
+    "main.css": "/table_cofe/static/css/main.6036969a.chunk.css",
+    "main.js": "/table_cofe/static/js/main.c36caba6.chunk.js",
+    "main.js.map": "/table_cofe/static/js/main.c36caba6.chunk.js.map",
+    "runtime-main.js": "/table_cofe/static/js/runtime-main.84c38ec9.js",
+    "runtime-main.js.map": "/table_cofe/static/js/runtime-main.84c38ec9.js.map",
+    "static/js/2.c0158f9b.chunk.js": "/table_cofe/static/js/2.c0158f9b.chunk.js",
+    "static/js/2.c0158f9b.chunk.js.map": "/table_cofe/static/js/2.c0158f9b.chunk.js.map",
+    "index.html": "/table_cofe/index.html",
+    "static/css/main.6036969a.chunk.css.map": "/table_cofe/static/css/main.6036969a.chunk.css.map",
+    "static/js/2.c0158f9b.chunk.js.LICENSE.txt": "/table_cofe/static/js/2.c0158f9b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2938d171.js",
-    "static/js/2.33e34de6.chunk.js",
-    "static/css/main.6eb0a1f8.chunk.css",
-    "static/js/main.332e90be.chunk.js"
+    "static/js/runtime-main.84c38ec9.js",
+    "static/js/2.c0158f9b.chunk.js",
+    "static/css/main.6036969a.chunk.css",
+    "static/js/main.c36caba6.chunk.js"
   ]
 }
