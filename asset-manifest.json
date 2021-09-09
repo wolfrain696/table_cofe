@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/table_cofe/static/css/main.c0b07c46.chunk.css",
-    "main.js": "/table_cofe/static/js/main.f82c1681.chunk.js",
-    "main.js.map": "/table_cofe/static/js/main.f82c1681.chunk.js.map",
+    "main.css": "/table_cofe/static/css/main.a85efd27.chunk.css",
+    "main.js": "/table_cofe/static/js/main.e31d2bb4.chunk.js",
+    "main.js.map": "/table_cofe/static/js/main.e31d2bb4.chunk.js.map",
     "runtime-main.js": "/table_cofe/static/js/runtime-main.84c38ec9.js",
     "runtime-main.js.map": "/table_cofe/static/js/runtime-main.84c38ec9.js.map",
     "static/js/2.75097409.chunk.js": "/table_cofe/static/js/2.75097409.chunk.js",
     "static/js/2.75097409.chunk.js.map": "/table_cofe/static/js/2.75097409.chunk.js.map",
     "index.html": "/table_cofe/index.html",
-    "static/css/main.c0b07c46.chunk.css.map": "/table_cofe/static/css/main.c0b07c46.chunk.css.map",
+    "static/css/main.a85efd27.chunk.css.map": "/table_cofe/static/css/main.a85efd27.chunk.css.map",
     "static/js/2.75097409.chunk.js.LICENSE.txt": "/table_cofe/static/js/2.75097409.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.84c38ec9.js",
     "static/js/2.75097409.chunk.js",
-    "static/css/main.c0b07c46.chunk.css",
-    "static/js/main.f82c1681.chunk.js"
+    "static/css/main.a85efd27.chunk.css",
+    "static/js/main.e31d2bb4.chunk.js"
   ]
 }
