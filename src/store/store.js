@@ -110,13 +110,49 @@ class Store{
         {title: 'Термокружка', value: 0},
     ]
 
+    foodTable = [
+        {title:'Молоко', value: 0},
+        {title:'Круассан с миндалём', value: 0},
+        {title:'Круассан с шоколадом', value: 0},
+        {title:'Круассан с сыром', value: 0},
+        {title:'Круассан классический ', value: 0},
+        {title:'Треугольник с вишней', value: 0},
+        {title:'Кленовый пекан', value: 0},
+        {title:'Печенье шоколад-мята', value: 0},
+        {title:'Печенье 4 шоколада', value: 0},
+        {title:'Печенье клюква-бел.шоколад', value: 0},
+        {title:'Печенье апельсин-кокос', value: 0},
+        {title:'Печенье с шок.крошкой', value: 0},
+        {title:'Эклер шоколад (кратное 6)', value: 0},
+        {title:'Макаруни фисташка', value: 0},
+        {title:'Макаруни шоколад', value: 0},
+        {title:'Макаруни малина', value: 0},
+        {title:'Пряник', value: 0},
+        {title:'Пончик ваниль', value: 0},
+        {title:'Пончик шоколад ', value: 0},
+        {title:'Пончик банан', value: 0},
+        {title:'Фисташковый тарт с малиной', value: 0},
+        {title:'Тарт "Сникер"', value: 0},
+        {title:'Тарт "Сникер"', value: 0},
+        {title:'Венская вафля ', value: 0},
+        {title:'Сырники ', value: 0},
+        {title:'Лёд пакетики (кратно 5) ', value: 0},
+    ]
+
+
 
     constructor() {
         makeAutoObservable(this)
     }
 
-    ChangeValue(index,val){
-        this.table[index].value = val
+    ChangeValue(index,val,obj){
+        if(obj === 'table'){
+            this.table[index].value = val
+        }
+        else if(obj === 'food'){
+            this.foodTable[index].value = val
+        }
+
     }
 }
 
