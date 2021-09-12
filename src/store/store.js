@@ -1,5 +1,5 @@
 import {makeAutoObservable} from "mobx";
-import {getUpdates, sendMessage} from "../bot";
+import {sendMessage} from "../bot";
 
 
 class Store {
@@ -147,7 +147,6 @@ class Store {
 
     constructor() {
         makeAutoObservable(this)
-        // getUpdates()
     }
 
     changeDate(val) {
