@@ -128,6 +128,8 @@ class Store {
         {title: 'Макаруни фисташка', value: ''},
         {title: 'Макаруни шоколад', value: ''},
         {title: 'Макаруни малина', value: ''},
+        {title: 'Чизкейк ванинь', value: ''},
+        {title: 'Чизкейк шоколад', value: ''},
         {title: 'Пряник', value: ''},
         {title: 'Пончик ваниль', value: ''},
         {title: 'Пончик шоколад ', value: ''},
